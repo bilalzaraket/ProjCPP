@@ -1,0 +1,403 @@
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+-- P(#1): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #0 (./bin/x64/Debug/StrategyDummy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+-- P(#1): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #0 (./bin/x64/Debug/StrategyDummy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+-- P(#1): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #0 (./bin/x64/Debug/StrategyDummy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #1 (./bin/x64/Debug/StrategyDummy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #1 (./bin/x64/Debug/StrategyDummy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 5 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+-- P(#2): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#3): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#4): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 5 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+-- P(#2): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#3): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#4): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 5 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+-- P(#2): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#3): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#4): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #0 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairie3lib(./bin/x64/Debug/StrategyDummy.dll)
+--     From: Omar
+-- P(#1): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #1 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): Test de librairielib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#1): Test de librairielib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\Strategy.dll)
+--     From: Fabien Picarougne
+WIN #0 (H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+-- P(#1): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+WIN #0 (H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+-- P(#1): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+WIN #0 (H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+-- P(#1): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+WIN #1 (H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+-- P(#1): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+WIN #0 (H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 5 players
+
+-- -> Starting Game
+
+-- P(#0): AgressiveAttacklib(./bin/x64/Debug/AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+-- P(#1): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#2): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#3): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+-- P(#4): Test de librairielib(./bin/x64/Debug/Strategy.dll)
+--     From: Fabien Picarougne
+WIN #2 (./bin/x64/Debug/Strategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+-- P(#1): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+WIN #1 (H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+
+-- -> Ending Game
+
+==-------------------------------------------
+-- 2 players
+
+-- -> Starting Game
+
+-- P(#0): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+-- P(#1): AgressiveAttacklib(H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+--     From: Omar JERIDI ; Corentin Banier ; Bilal ZARAKET ; Ibrahim El Umari
+WIN #0 (H:\4A INFO\sem1\cpp\dicewar\dicewars-cpp-g17\bin\x64\Debug\AggressiveAttackStrategy.dll)
+
+-- -> Ending Game
+
